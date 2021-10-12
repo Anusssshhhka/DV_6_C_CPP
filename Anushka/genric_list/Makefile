@@ -8,28 +8,3 @@ giter.o: giter.o glist.h giter.h
   gcc -c giter.o
 clean:
   rm -rf*o genric_list
-    
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
